@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=19V Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Member From Class: ClassName=MachLoa Member=C19
+Removed Member From Class: ClassName=MachLoa Member=C22
+Removed Member From Class: ClassName=MachLoa Member=P?
+Change Component Comment : Designator=C1 Old Comment=Cap Pol3 New Comment=2200uF
+Change component parameters: Designator = "C1"; Footprint = "C10mm"; UniqueID = "\NRERHBQK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-
+Added Net: Name=NetC3_2

@@ -1,0 +1,51 @@
+Change Component Footprint: Designator=C1 Old Footprint=CP2/5 New Footprint=C10mm
+Change Component Description : Designator=IC1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change component parameters: Designator = "IC1"; Footprint = "diode cau"; UniqueID = "\PYLUTELW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001207"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode C?u 3A 700V KBP307 (Vuông)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1"; Footprint = "jump don duc 2.54_5p"; UniqueID = "\TLTNSBOL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=Volum2(VOL-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Volume Dual 50K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetIC3_2 Pin=Volum2-1
+Added Pin To Net: NetName=NetD1_1 Pin=Volum2-3
+Added Member To Class: ClassName=MachLoa Member=Component C2 4.7uF
+Added Member To Class: ClassName=MachLoa Member=Component C3 1000uF
+Added Member To Class: ClassName=MachLoa Member=Component J1 Jumper 3
+Added Member To Class: ClassName=MachLoa Member=Component Volum2 50K
+Added Room: Name=MachLoa

@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Added Component: Designator=TuHoa1(CP2/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "100"; Value = "1000pF/35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "
+Added Room: Name=MachLoa

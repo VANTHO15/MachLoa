@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=19V Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Member From Class: ClassName=MachLoa Member=C20
+Change component parameters: Designator = "C1"; Footprint = "CP2/5"; UniqueID = "\YWDJRSQV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "CP2/5"; UniqueID = "\YLJSUNLB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CP2/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200"; VariantName = "[No Variations]"
+Add component (AddParameter ignored because duplicated): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=P?(Jack 3.5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Kycon, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "STX-3501-3N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STX-3501-3N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=19V Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Member To Class: ClassName=MachLoa Member=Component C22 Cap Pol3
+Added Member To Class: ClassName=MachLoa Member=Component P? Audio JACK
